@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+li {
+    line-height: 50px;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+}
+
+label {
+    color: rgb(13, 83, 124);
+}
+
+span {
+    color: hotpink;
+}
